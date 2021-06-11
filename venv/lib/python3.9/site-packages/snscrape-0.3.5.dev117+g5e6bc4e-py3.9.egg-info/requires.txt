@@ -1,0 +1,9 @@
+requests[socks]
+lxml
+beautifulsoup4
+
+[:python_version < "3.9.0"]
+pytz
+
+[test]
+coverage

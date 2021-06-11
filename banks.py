@@ -1,0 +1,10 @@
+banks = ['Anipay','KapitalBank',
+'IBA mobile',
+'Pasha bank mobile app',
+'E-pul',
+'uBank Unibank',
+'hesab.az',
+'Emanat',
+'Million',
+'Dost bank',
+]
